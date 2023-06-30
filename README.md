@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Sharktrix AKA Zainab Jahan. An international student studying Computer Programming and Analysis at Seneca College in Toronto.
+- 👋 Hi, I’m @Sharktrix Aka Zainab Jahan. An international student studying Computer Programming and Analysis at Seneca College in Toronto. 
 - 👀 I’m interested in building new projects to grow.
 - 🌱 I’m currently learning Python, Java, C++ and DSA. 
 - 💞️ I’m looking for Fall 2023 internship opportunities. 
 - 📫 How to reach me 
-
      . LinkedIn : https://www.linkedin.com/in/zainab-jahan
 
 <!---
