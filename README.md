@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharktrix Aka Zainab Jahan. A Computer Science Brainiac in Toronto. 
 - 👀 I’m interested in building new projects and advancements to grow my career in Data Science.
-- 🌱 I’m currently learning Python and Data Structures & Algorithms. 
-- 💞️ I’m looking for Fall 2023/Winter 2024 internship opportunities. 
+- 🌱 I’m currently working on Python and Data Structures & Algorithms Projects, Please head to Projects section to follow my work. 
+- 💞️ I’m looking for 2024 internship or job opportunities. 
 - 📫 How to reach me: 
    - LinkedIn : https://www.linkedin.com/in/zainab-jahan
    - Twitter : https://twitter.com/jahanzaynab
